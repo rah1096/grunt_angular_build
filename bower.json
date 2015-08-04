@@ -1,0 +1,25 @@
+{
+  "name": "myApp",
+  "version": "0.0.1",
+  "authors": [
+    "Tim <chent1101@gmail.com>"
+  ],
+  "description": "Practice Grunt",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.3"
+  }
+}
